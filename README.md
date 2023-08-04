@@ -5,14 +5,21 @@
 
 <br>
 
-
+<!--
 <div align="center">
   <a href="https://github.com/BrunoSoffo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoSoffo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSoffo&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
+-->
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunoSoffo&show_icons=true&count_private=true&theme=highcontrast" alt="Bruno Soffo github stats" /> 
+  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSoffo&layout=compact&langs_count=16&theme=highcontrast" />
+</div>
+    
 <br>
-<br>
+
 <div align="center"> 
   <a href="https://www.instagram.com/bru_soffo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
   <a href = "mailto:brunosoffo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
