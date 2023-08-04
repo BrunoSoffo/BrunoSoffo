@@ -14,8 +14,8 @@
 -->
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunoSoffo&show_icons=true&count_private=true&theme=highcontrast" alt="Bruno Soffo github stats" /> 
-  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSoffo&layout=compact&langs_count=16&theme=highcontrast" />
+  <img width="49%" height="225px" src="https://github-readme-stats.vercel.app/api?username=BrunoSoffo&show_icons=true&count_private=true&theme=highcontrast" alt="Bruno Soffo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSoffo&layout=compact&langs_count=16&theme=highcontrast" />
 </div>
     
 <br>
