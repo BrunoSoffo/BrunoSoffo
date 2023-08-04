@@ -22,7 +22,7 @@
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/bruno-da-silva-soffo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.salesforce.com/trailblazer/brusoffo" target="_blank"><img src="./images/trailhead.png" width="12%"></a>
+  <a href="https://www.salesforce.com/trailblazer/brusoffo" target="_blank"><img src="./images/trailhead.png" width="111px" height="28px"></a>
   <a href = "mailto:brunosoffo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/bru_soffo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <br>
