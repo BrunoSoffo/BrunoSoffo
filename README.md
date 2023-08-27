@@ -46,17 +46,17 @@
     <tr>
         <td>
             <a href="https://brunosoffo.github.io/Tom-s---Landing-page/" target="_blank">
-                <img src="/main/portfolio/metaland.png" width="250">
+                <img src="./images/Tom&apos;s Landing Page.png" width="250">
             </a>
         </td>
         <td>
             <a href="https://brunosoffo.github.io/X-Men/" target="_blank">
-                <img src="/main/portfolio/olympus.png" width="250">
+                <img src="./images/X-Men.png" width="250">
             </a>
         </td> 
         <td>
             <a href="https://devsteam-three.vercel.app" target="_blank">
-                <img src="/main/portfolio/tangible.png" width="250">
+                <img src="./images/DevSteam.png" width="250">
             </a>
         </td>               
     </tr>
