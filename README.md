@@ -32,6 +32,12 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrunoSoffo&bg_color=050505&color=00e7eb&line=f0a400&point=00e7eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 </div>
+<br>
+<br>
+<h2 align="center" style="color: yellow;">Thanks for visiting my profile.</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" width="100%" />
+</p>
 <!--
 **BrunoSoffo/BrunoSoffo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
