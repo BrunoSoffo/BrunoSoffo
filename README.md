@@ -33,7 +33,7 @@
  
 </div>
 
-### My Portfolio:
+### Some of my projects:
 
 <table>
     <thead align="center">
