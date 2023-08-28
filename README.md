@@ -32,6 +32,35 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrunoSoffo&bg_color=050505&color=00e7eb&line=f0a400&point=00e7eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 </div>
+
+### My Portfolio:
+
+<table>
+    <thead align="center">
+        <tr>
+            <td>Tom's Landing Page</td>
+            <td>X-Men Website</td>           
+            <td>DevSteam</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://brunosoffo.github.io/Tom-s---Landing-page/" target="_blank">
+                <img src="/main/portfolio/metaland.png" width="250">
+            </a>
+        </td>
+        <td>
+            <a href="https://brunosoffo.github.io/X-Men/" target="_blank">
+                <img src="/main/portfolio/olympus.png" width="250">
+            </a>
+        </td> 
+        <td>
+            <a href="https://devsteam-three.vercel.app" target="_blank">
+                <img src="/main/portfolio/tangible.png" width="250">
+            </a>
+        </td>               
+    </tr>
+</table>
 <br>
 <br>
 <h2 align="center" style="color: yellow;">Thanks for visiting my profile.</h2>
