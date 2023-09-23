@@ -21,21 +21,26 @@
     
 <br>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrunoSoffo&bg_color=050505&color=00e7eb&line=f0a400&point=00e7eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
+
+## Social Links
 <div align="center">  
   <a href="https://www.linkedin.com/in/bruno-da-silva-soffo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.salesforce.com/trailblazer/brusoffo" target="_blank"><img src="./images/trailhead.png" width="111px" height="28px"></a>
   <a href = "mailto:brunosoffo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/bru_soffo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.duolingo.com/profile/BrunoSoffo?via=share_profile" target="_blank"><img src="./images/download.png" width="111px" height="28px"></a>
-  <br>
-  <br>
-
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrunoSoffo&bg_color=050505&color=00e7eb&line=f0a400&point=00e7eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <br>  
  
 </div>
 
-### Some of my projects:
+<br>
+<h2>Some of my projects:</h2>
 
+<br>
 <table>
     <thead align="center">
         <tr>
