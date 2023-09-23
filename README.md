@@ -38,35 +38,37 @@
 </div>
 
 <br>
-<h2>Some of my projects:</h2>
+<h2>Some of my projects</h2>
 
 <br>
-<table>
-    <thead align="center">
-        <tr>
-            <td>Tom's Landing Page</td>
-            <td>X-Men Website</td>           
-            <td>DevSteam</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://brunosoffo.github.io/Tom-s---Landing-page/" target="_blank">
-                <img src="./images/Tom&apos;s Landing Page.png" width="250">
-            </a>
-        </td>
-        <td>
-            <a href="https://brunosoffo.github.io/X-Men/" target="_blank">
-                <img src="./images/X-Men.png" width="250">
-            </a>
-        </td> 
-        <td>
-            <a href="https://devsteam-three.vercel.app" target="_blank">
-                <img src="./images/DevSteam.png" width="250">
-            </a>
-        </td>               
-    </tr>
-</table>
+<div align="center">
+  <table>
+      <thead align="center">
+          <tr>
+              <td>Tom's Landing Page</td>
+              <td>X-Men Website</td>           
+              <td>DevSteam</td>
+          </tr>
+      </thead>
+      <tr>
+          <td>
+              <a href="https://brunosoffo.github.io/Tom-s---Landing-page/" target="_blank">
+                  <img src="./images/Tom&apos;s Landing Page.png" width="250">
+              </a>
+          </td>
+          <td>
+              <a href="https://brunosoffo.github.io/X-Men/" target="_blank">
+                  <img src="./images/X-Men.png" width="250">
+              </a>
+          </td> 
+          <td>
+              <a href="https://devsteam-three.vercel.app" target="_blank">
+                  <img src="./images/DevSteam.png" width="250">
+              </a>
+          </td>               
+      </tr>
+  </table>
+</div>
 <br>
 <br>
 <h2 align="center" style="color: yellow;">Thanks for visiting my profile.</h2>
