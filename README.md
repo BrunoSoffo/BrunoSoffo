@@ -19,11 +19,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSoffo&layout=compact&langs_count=16&theme=highcontrast" />
 </div>
     
-<br>
+<!--<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrunoSoffo&bg_color=050505&color=00e7eb&line=f0a400&point=00e7eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br>
+<br>-->
 
 
 ## Social Links
